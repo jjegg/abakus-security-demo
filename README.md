@@ -59,7 +59,7 @@ Web accessible, Open Cisco Routers
 Installation instructions: https://github.com/laramies/theHarvester
 
 Example command for assessing google
-`theharvester -d telenordigital.com -l 500 -b all > telenor-digital.txt`
+`theharvester -d megacorpone.com -l 500 -b all > megacorpone.txt`
 
 
 ## Nmap
@@ -154,3 +154,6 @@ https://www.kali.org/
 XSS: https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet
 
 SQL injection: https://www.owasp.org/index.php/SQL_Injection_Prevention_Cheat_Sheet
+
+##  Educational resources
+1. Hacker101 - Video Resources https://www.hacker101.com/
